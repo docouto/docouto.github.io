@@ -27,6 +27,10 @@ a{
 .section-1{
     padding-top: 10vh;
     text-align: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
 }
 
 .section-1 p{
